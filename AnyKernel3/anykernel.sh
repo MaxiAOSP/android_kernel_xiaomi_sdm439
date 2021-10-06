@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Cherry Kernel - by @AkiraNoSushi & @JoelTheFluff
+kernel.string=NV Production Kernel
 do.devicecheck=1
 do.modules=1
 do.systemless=0
