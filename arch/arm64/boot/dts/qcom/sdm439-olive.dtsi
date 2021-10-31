@@ -725,6 +725,7 @@
 &sdhc_1 {
 	/* DLL HSR settings. Refer go/hsr - <Target> DLL settings */
 	qcom,dll-hsr-list = <0x00076400 0x0 0x0 0x0 0x00040868>;
+	qcom,ddr-config = <0x00040868>;
 
 };
 
